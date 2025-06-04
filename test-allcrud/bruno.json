@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "test-allcrud",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
